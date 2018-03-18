@@ -1,0 +1,6 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\bin\Debug\RecursiveArraySum.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\bin\Debug\RecursiveArraySum.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\bin\Debug\RecursiveArraySum.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\obj\Debug\RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\obj\Debug\RecursiveArraySum.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveArraySum\obj\Debug\RecursiveArraySum.pdb

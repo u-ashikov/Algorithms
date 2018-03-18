@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\bin\Debug\MergeSorting.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\bin\Debug\MergeSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\bin\Debug\MergeSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\obj\Debug\MergeSorting.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\obj\Debug\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\obj\Debug\MergeSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\MergeSorting\obj\Debug\MergeSorting.pdb
