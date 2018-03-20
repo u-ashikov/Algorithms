@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\bin\Debug\AllPathsInLabyrinth.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\bin\Debug\AllPathsInLabyrinth.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\bin\Debug\AllPathsInLabyrinth.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\AllPathsInLabyrinth\obj\Debug\AllPathsInLabyrinth.csprojResolveAssemblyReference.cache

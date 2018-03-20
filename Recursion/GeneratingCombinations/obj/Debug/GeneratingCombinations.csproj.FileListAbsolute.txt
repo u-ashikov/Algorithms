@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\bin\Debug\GeneratingCombinations.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\bin\Debug\GeneratingCombinations.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\bin\Debug\GeneratingCombinations.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\obj\Debug\GeneratingCombinations.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\obj\Debug\GeneratingCombinations.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\obj\Debug\GeneratingCombinations.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingCombinations\obj\Debug\GeneratingCombinations.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

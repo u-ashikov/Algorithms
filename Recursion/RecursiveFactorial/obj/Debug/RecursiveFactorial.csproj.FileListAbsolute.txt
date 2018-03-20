@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

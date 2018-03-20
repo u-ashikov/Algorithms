@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\obj\Debug\ReverseArray.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache

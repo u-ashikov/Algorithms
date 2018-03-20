@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\bin\Debug\CombinationsWithRepetition.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\CombinationsWithRepetition\obj\Debug\CombinationsWithRepetition.pdb

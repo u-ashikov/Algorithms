@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\bin\Debug\RecursiveDrawing.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\bin\Debug\RecursiveDrawing.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\bin\Debug\RecursiveDrawing.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\obj\Debug\RecursiveDrawing.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\obj\Debug\RecursiveDrawing.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\obj\Debug\RecursiveDrawing.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\RecursiveDrawing\obj\Debug\RecursiveDrawing.pdb

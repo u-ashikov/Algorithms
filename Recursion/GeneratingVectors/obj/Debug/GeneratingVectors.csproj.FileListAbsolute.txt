@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\bin\Debug\GeneratingVectors.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\bin\Debug\GeneratingVectors.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\bin\Debug\GeneratingVectors.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\obj\Debug\GeneratingVectors.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\obj\Debug\GeneratingVectors.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\obj\Debug\GeneratingVectors.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\GeneratingVectors\obj\Debug\GeneratingVectors.csprojResolveAssemblyReference.cache
