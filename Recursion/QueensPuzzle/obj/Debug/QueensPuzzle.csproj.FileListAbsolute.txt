@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\bin\Debug\QueensPuzzle.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\bin\Debug\QueensPuzzle.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\bin\Debug\QueensPuzzle.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\obj\Debug\QueensPuzzle.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\obj\Debug\QueensPuzzle.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\obj\Debug\QueensPuzzle.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Recursion\QueensPuzzle\obj\Debug\QueensPuzzle.pdb
