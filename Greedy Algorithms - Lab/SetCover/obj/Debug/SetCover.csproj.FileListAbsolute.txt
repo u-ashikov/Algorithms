@@ -1,0 +1,7 @@
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\bin\Debug\SetCover.exe.config
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\bin\Debug\SetCover.exe
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\bin\Debug\SetCover.pdb
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\obj\Debug\SetCover.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\obj\Debug\SetCover.exe
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\obj\Debug\SetCover.pdb
+C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover\obj\Debug\SetCover.csprojResolveAssemblyReference.cache
