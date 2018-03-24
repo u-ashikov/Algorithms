@@ -1,0 +1,6 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetitions.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetitions.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetitions.pdb

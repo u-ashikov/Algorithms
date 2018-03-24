@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\bin\Debug\CombinationsWithRepetitions.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\bin\Debug\CombinationsWithRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\bin\Debug\CombinationsWithRepetitions.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\obj\Debug\CombinationsWithRepetitions.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\obj\Debug\CombinationsWithRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\obj\Debug\CombinationsWithRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\CombinationsWithRepetitions\obj\Debug\CombinationsWithRepetitions.pdb

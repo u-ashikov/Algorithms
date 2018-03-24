@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\bin\Debug\VariationsWithoutRepetitions.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Combinatorial Algoritms\VariationsWithoutRepetitions\obj\Debug\VariationsWithoutRepetitions.pdb
