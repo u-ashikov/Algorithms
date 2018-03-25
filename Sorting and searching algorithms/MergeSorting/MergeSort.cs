@@ -12,28 +12,28 @@
             Sort(arr, 0, arr.Length - 1);
         }
 
-        private static void Merge(T[] arr, int lo, int mid, int hi)
+        private static void Merge(T[] arr, int start, int mid, int end)
         {
             if (IsLess(arr[mid],arr[mid+1]))
             {
                 return;
             }
 
-            for (int index = lo; index < hi + 1; index++)
+            for (int index = start; index < end + 1; index++)
             {
                 aux[index] = arr[index];
             }
 
-            int i = lo;
+            int i = start;
             int j = mid + 1;
 
-            for (int k = lo; k <= hi; k++)
+            for (int k = start; k <= end; k++)
             {
                 if (i > mid)
                 {
                     arr[k] = aux[j++];
                 }
-                else if (j > hi)
+                else if (j > end)
                 {
                     arr[k] = aux[i++];
                 }

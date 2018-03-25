@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\bin\Debug\BinarySearching.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\bin\Debug\BinarySearching.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\bin\Debug\BinarySearching.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\obj\Debug\BinarySearching.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\obj\Debug\BinarySearching.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\obj\Debug\BinarySearching.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BinarySearching\obj\Debug\BinarySearching.csprojResolveAssemblyReference.cache
