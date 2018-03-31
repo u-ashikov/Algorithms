@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\bin\Debug\InsertionSorting.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\bin\Debug\InsertionSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\bin\Debug\InsertionSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\obj\Debug\InsertionSorting.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\obj\Debug\InsertionSorting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\obj\Debug\InsertionSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InsertionSorting\obj\Debug\InsertionSorting.pdb

@@ -1,12 +1,13 @@
 ﻿namespace BinarySearching
 {
     using System;
+    using System.Linq;
 
     public class Program
     {
         public class BinarySearch<T> where T:IComparable
         {
-            public static int IndexOf(T[] elements, T targetElement)
+            public static int Search(T[] elements, T targetElement)
             {
                 int start = 0;
                 int end = elements.Length - 1;
@@ -37,11 +38,13 @@
 
         public static void Main()
         {
-            var elements = new int[] { 1, 2, 3, 4, 5 };
-            var targetElement = 5;
-            var indexOf = BinarySearch<int>.IndexOf(elements, targetElement);
+            var elements = Console.ReadLine()
+               .Split(new char[] { ' ' }, StringSplitOptions.RemoveEmptyEntries)
+               .Select(int.Parse)
+               .ToArray();
 
-            Console.WriteLine($"Index of {targetElement} is {indexOf}");
+            var targetElement = int.Parse(Console.ReadLine());
+            Console.WriteLine(BinarySearch<int>.Search(elements, targetElement));
         }
     }
 }

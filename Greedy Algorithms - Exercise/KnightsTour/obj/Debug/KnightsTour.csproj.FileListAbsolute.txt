@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\bin\Debug\KnightsTour.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\bin\Debug\KnightsTour.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\bin\Debug\KnightsTour.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\obj\Debug\KnightsTour.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\obj\Debug\KnightsTour.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\obj\Debug\KnightsTour.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\KnightsTour\obj\Debug\KnightsTour.pdb

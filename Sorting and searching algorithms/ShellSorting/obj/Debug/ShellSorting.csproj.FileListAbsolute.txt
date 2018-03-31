@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\bin\Debug\ShellSorting.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\bin\Debug\ShellSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\bin\Debug\ShellSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\obj\Debug\ShellSorting.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\obj\Debug\ShellSorting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\obj\Debug\ShellSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\ShellSorting\obj\Debug\ShellSorting.pdb

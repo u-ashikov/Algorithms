@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\bin\Debug\Needles.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\bin\Debug\Needles.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\bin\Debug\Needles.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\obj\Debug\Needles.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\obj\Debug\Needles.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\obj\Debug\Needles.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Needles\obj\Debug\Needles.pdb

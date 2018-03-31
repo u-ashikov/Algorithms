@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\bin\Debug\BestLecturesSchedule.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\bin\Debug\BestLecturesSchedule.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\bin\Debug\BestLecturesSchedule.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\obj\Debug\BestLecturesSchedule.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\obj\Debug\BestLecturesSchedule.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\obj\Debug\BestLecturesSchedule.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\BestLecturesSchedule\obj\Debug\BestLecturesSchedule.pdb

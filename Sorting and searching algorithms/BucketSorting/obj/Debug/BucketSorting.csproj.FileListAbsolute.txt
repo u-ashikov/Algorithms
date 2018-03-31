@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\bin\Debug\BucketSorting.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\bin\Debug\BucketSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\bin\Debug\BucketSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\obj\Debug\BucketSorting.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\obj\Debug\BucketSorting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\obj\Debug\BucketSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BucketSorting\obj\Debug\BucketSorting.pdb

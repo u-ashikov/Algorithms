@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\bin\Debug\BubbleSorting.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\bin\Debug\BubbleSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\bin\Debug\BubbleSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\obj\Debug\BubbleSorting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\obj\Debug\BubbleSorting.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\obj\Debug\BubbleSorting.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\BubbleSorting\obj\Debug\BubbleSorting.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\bin\Debug\EgyptianFractions.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\bin\Debug\EgyptianFractions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\bin\Debug\EgyptianFractions.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\obj\Debug\EgyptianFractions.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\obj\Debug\EgyptianFractions.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\obj\Debug\EgyptianFractions.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\EgyptianFractions\obj\Debug\EgyptianFractions.pdb

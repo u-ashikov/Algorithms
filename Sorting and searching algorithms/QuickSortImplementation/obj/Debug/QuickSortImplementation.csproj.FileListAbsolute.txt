@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\bin\Debug\QuickSortImplementation.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\bin\Debug\QuickSortImplementation.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\bin\Debug\QuickSortImplementation.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\obj\Debug\QuickSortImplementation.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\obj\Debug\QuickSortImplementation.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\obj\Debug\QuickSortImplementation.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\QuickSortImplementation\obj\Debug\QuickSortImplementation.pdb

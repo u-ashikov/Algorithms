@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\bin\Debug\ProcessorScheduling.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\bin\Debug\ProcessorScheduling.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\bin\Debug\ProcessorScheduling.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\obj\Debug\ProcessorScheduling.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\obj\Debug\ProcessorScheduling.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\obj\Debug\ProcessorScheduling.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\ProcessorScheduling\obj\Debug\ProcessorScheduling.pdb

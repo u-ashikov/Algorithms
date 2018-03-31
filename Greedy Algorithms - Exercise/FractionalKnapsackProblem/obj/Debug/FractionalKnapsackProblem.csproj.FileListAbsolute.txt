@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\bin\Debug\FractionalKnapsackProblem.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\bin\Debug\FractionalKnapsackProblem.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\bin\Debug\FractionalKnapsackProblem.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\obj\Debug\FractionalKnapsackProblem.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\obj\Debug\FractionalKnapsackProblem.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\obj\Debug\FractionalKnapsackProblem.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Exercise\FractionalKnapsackProblem\obj\Debug\FractionalKnapsackProblem.pdb

@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\bin\Debug\InversionCount.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\bin\Debug\InversionCount.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\bin\Debug\InversionCount.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\obj\Debug\InversionCount.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\obj\Debug\InversionCount.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\obj\Debug\InversionCount.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\InversionCount\obj\Debug\InversionCount.csprojResolveAssemblyReference.cache

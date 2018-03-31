@@ -1,0 +1,7 @@
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\bin\Debug\Searching.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\bin\Debug\Searching.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\bin\Debug\Searching.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\obj\Debug\Searching.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\obj\Debug\Searching.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Sorting and searching algorithms\Searching\obj\Debug\Searching.pdb
