@@ -21,7 +21,7 @@ public class SumOfCoins
     public static Dictionary<int, int> ChooseCoins(IList<int> coins, int targetSum)
     {
         var result = new Dictionary<int, int>();
-        coins = coins.OrderByDescending(c => c).ToList();
+        coins = coins.OrderByDescending(c => c).Distinct().ToList();
         int index = 0;
         int currentSum = 0;
 
@@ -33,13 +33,11 @@ public class SumOfCoins
 
             index++;
 
-            if (coinsCount == 0 || currentSum + currentCoinsSum > targetSum)
+            if (coinsCount > 0 && currentSum + currentCoinsSum <= targetSum)
             {
-                continue;
+                result[currentCoin] = coinsCount;
+                currentSum += currentCoinsSum;
             }
-
-            result[currentCoin] = coinsCount;
-            currentSum += currentCoinsSum;
         }
 
         if (currentSum != targetSum)

@@ -5,3 +5,10 @@ C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.c
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.exe
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\bin\Debug\SumOfCoins.exe.config
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\bin\Debug\SumOfCoins.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\bin\Debug\SumOfCoins.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.exe
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins\obj\Debug\SumOfCoins.pdb

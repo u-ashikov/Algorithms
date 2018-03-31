@@ -8,3 +8,7 @@ C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CoreCompileInputs.cache
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.dll
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.dll
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SetCover.Tests\obj\Debug\SetCover.Tests.pdb

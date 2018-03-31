@@ -8,3 +8,7 @@ C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfC
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csproj.CoreCompileInputs.cache
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.dll
 C:\Users\uashi\Desktop\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.pdb
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csprojResolveAssemblyReference.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.csproj.CoreCompileInputs.cache
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.dll
+C:\Users\uashi\Documents\GitHub\Algorithms\Greedy Algorithms - Lab\SumOfCoins.Tests\obj\Debug\SumOfCoins.Tests.pdb
