@@ -1,0 +1,7 @@
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\bin\Debug\RodCutting.exe.config
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\bin\Debug\RodCutting.exe
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\bin\Debug\RodCutting.pdb
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\obj\Debug\RodCutting.csprojResolveAssemblyReference.cache
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\obj\Debug\RodCutting.csproj.CoreCompileInputs.cache
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\obj\Debug\RodCutting.exe
+C:\Users\uashi\source\repos\Dynamic Programming - Lab I\RodCutting\obj\Debug\RodCutting.pdb
